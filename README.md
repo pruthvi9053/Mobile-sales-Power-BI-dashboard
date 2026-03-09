@@ -43,3 +43,13 @@ The dataset contains information such as:
 - Date
 
 ## Project Structure
+mobile-sales-powerbi-dashboard
+│
+├── dashboard
+│   └── Mobile_Sales_Dashboard.pbix
+│
+├── dataset
+│   └── mobile_sales_data.csv
+│
+├── images
+│   └── dashboard_preview.png
